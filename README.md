@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">I'm Raki from Tunisia<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning springboot<br>- ⚡ In my free time I freelance on fiverr</p>
+<p align="left">I'm Raki from Tunisia<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently Working on my first python library<br>- ⚡ In my free time I freelance on upwork</p>
 
 ###
 
