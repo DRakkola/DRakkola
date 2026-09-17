@@ -54,9 +54,9 @@ I'm **Raki**, a software engineer from **Tunisia 🇹🇳** who enjoys turning i
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
 </p>
 
 ### DevOps & Infrastructure
@@ -79,116 +79,17 @@ I'm **Raki**, a software engineer from **Tunisia 🇹🇳** who enjoys turning i
 
 ---
 
-## 🚀 What I Like Building
-
-I'm particularly interested in software that combines strong engineering with great user experience.
-
-```text
-Frontend
-   ↓
-React · Electron · Modern UI
-   ↓
-Backend
-   ↓
-Django · Python · Node.js
-   ↓
-Data
-   ↓
-PostgreSQL · MySQL
-   ↓
-Infrastructure
-   ↓
-Docker · Kubernetes · Linux
-```
-
-Areas I'm especially interested in:
-
-* 🏗️ Full-stack applications
-* ⚡ Real-time applications
-* 🔌 APIs & backend systems
-* 🧩 Developer tools
-* ☁️ Scalable infrastructure
-* 🤖 Automation & developer productivity
-
----
-
-## 📌 Featured Projects
-
-> Add your strongest projects here. A few well-presented projects are much more valuable than a long list.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Project One
-
-Short description of what the project does and why it is interesting.
-
-**Tech:** `Python` `Django` `React`
-
-<a href="https://github.com/DRakkola">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### ⚡ Project Two
-
-Short description of the problem this project solves and the main technical challenge.
-
-**Tech:** `React` `Node.js` `PostgreSQL`
-
-<a href="https://github.com/DRakkola">
-View Project →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧰 Project Three
-
-A developer tool, library, experiment, or open-source project worth highlighting.
-
-**Tech:** `Python` `Docker`
-
-<a href="https://github.com/DRakkola">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🔬 Project Four
-
-Another project demonstrating a different part of your engineering experience.
-
-**Tech:** `Django` `Kubernetes`
-
-<a href="https://github.com/DRakkola">
-View Project →
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DRakkola&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="180" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DRakkola&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRakkola&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="180" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRakkola&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -198,7 +99,43 @@ View Project →
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 More GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRakkola&theme=dracula" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DRakkola&theme=dracula" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DRakkola&theme=dracula" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DRakkola&theme=dracula" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DRakkola&theme=dracula&utcOffset=1" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DRakkola&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -208,9 +145,17 @@ View Project →
 
 ---
 
-## 🤝 Let's Connect
+## 📅 Contribution Calendar
 
-I'm always interested in discussing software engineering, interesting projects, developer tools, and new ideas.
+<div align="center">
+
+<img src="https://ghchart.rshah.org/DRakkola" alt="GitHub contribution graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raki-debbichi-89baba201">
