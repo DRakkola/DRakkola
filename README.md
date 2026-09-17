@@ -1,107 +1,230 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
-###
+# Hey, I'm Raki 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/raki-debbichi-89baba201" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+### Software Engineer · Full-Stack Developer · Builder from Tunisia 🇹🇳
+
+I design and build modern software systems, from polished frontend experiences to scalable backend architectures.
+
+<p>
+  <a href="https://www.linkedin.com/in/raki-debbichi-89baba201">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <a href="https://github.com/DRakkola">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#" id="emailLink">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=DRakkola&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Raki**, a software engineer from **Tunisia 🇹🇳** who enjoys turning ideas into reliable, maintainable products.
+
+* 🔭 Currently working on software products and developer-focused projects
+* 🐍 Exploring Python and building my first Python library
+* 🌐 Experienced with full-stack web development
+* ⚙️ Interested in backend architecture, real-time systems, and distributed applications
+* 💼 I also freelance on Upwork
+* 🚀 Always learning, experimenting, and building
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" />
+</p>
+
+### Tools & Ecosystem
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" />
+</p>
+
+---
+
+## 🚀 What I Like Building
+
+I'm particularly interested in software that combines strong engineering with great user experience.
+
+```text
+Frontend
+   ↓
+React · Electron · Modern UI
+   ↓
+Backend
+   ↓
+Django · Python · Node.js
+   ↓
+Data
+   ↓
+PostgreSQL · MySQL
+   ↓
+Infrastructure
+   ↓
+Docker · Kubernetes · Linux
+```
+
+Areas I'm especially interested in:
+
+* 🏗️ Full-stack applications
+* ⚡ Real-time applications
+* 🔌 APIs & backend systems
+* 🧩 Developer tools
+* ☁️ Scalable infrastructure
+* 🤖 Automation & developer productivity
+
+---
+
+## 📌 Featured Projects
+
+> Add your strongest projects here. A few well-presented projects are much more valuable than a long list.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Project One
+
+Short description of what the project does and why it is interesting.
+
+**Tech:** `Python` `Django` `React`
+
+<a href="https://github.com/DRakkola">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### ⚡ Project Two
+
+Short description of the problem this project solves and the main technical challenge.
+
+**Tech:** `React` `Node.js` `PostgreSQL`
+
+<a href="https://github.com/DRakkola">
+View Project →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧰 Project Three
+
+A developer tool, library, experiment, or open-source project worth highlighting.
+
+**Tech:** `Python` `Docker`
+
+<a href="https://github.com/DRakkola">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔬 Project Four
+
+Another project demonstrating a different part of your engineering experience.
+
+**Tech:** `Django` `Kubernetes`
+
+<a href="https://github.com/DRakkola">
+View Project →
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DRakkola&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRakkola&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DRakkola&theme=dracula&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DRakkola/DRakkola/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing software engineering, interesting projects, developer tools, and new ideas.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raki-debbichi-89baba201">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://github.com/DRakkola">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<script>
-  document.getElementById("emailLink").addEventListener("click", function() {
-    const email = "your.email@gmail.com";
-    const tempInput = document.createElement("input");
-    document.body.appendChild(tempInput);
-    tempInput.value = email;
-    tempInput.select();
-    document.execCommand("copy");
-    document.body.removeChild(tempInput);
-    alert("Email copied to clipboard: " + email);
-  });
-</script>
-
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DRakkola.DRakkola&"  />
+
+### 💭 Build things. Learn constantly. Ship often.
+
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Raki from Tunisia<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently Working on my first python library<br>- ⚡ In my free time I freelance on upwork</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DRakkola&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DRakkola&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DRakkola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
